@@ -1,6 +1,4 @@
-# first_flutter
-
-A new Flutter project.
+# Primeiro projeto em Dart.
 
 ## Getting Started
 
